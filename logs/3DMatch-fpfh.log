@@ -1,0 +1,13 @@
+Max memory allicated: 2.39GB
+Scene 0th: Reg Recall=0.00%  Mean RE=nan  Mean TE=nan  Mean Precision=85.86%  Mean Recall=90.38%  Mean F1=88.06%
+Scene 1th: Reg Recall=27.27%  Mean RE=6.33  Mean TE=1.04  Mean Precision=34.93%  Mean Recall=40.91%  Mean F1=37.10%
+Scene 2th: Reg Recall=75.00%  Mean RE=7.86  Mean TE=0.49  Mean Precision=64.21%  Mean Recall=71.89%  Mean F1=67.75%
+All 3 scenes, Mean Reg Recall=34.09%, Mean Re=nan, Mean Te=nan
+	Input:  Mean Inlier Num=374.58(ratio=10.99%)
+	Output: Mean Inlier Num=319.94(precision=61.66%, recall=67.73%, f1=64.30%)
+	Mean model time: 0.82s, Mean data time: 0.06s
+****************************************
+All 16 pairs, Mean Reg Recall=37.50%, Mean Re=7.09, Mean Te=0.76
+	Input:  Mean Inlier Num=277.31(ratio=6.78%)
+	Output: Mean Inlier Num=226.50(precision=45.43%, recall=51.75%, f1=47.95%)
+	Mean model time: 0.28s, Mean data time: 0.02s

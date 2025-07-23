@@ -1,0 +1,43 @@
+Max memory allicated: 0.00GB
+Scene 0th: Reg Recall=0.00%  Mean RE=nan  Mean TE=nan  Mean Precision=98.01%  Mean Recall=100.00%  Mean F1=99.00%
+Scene 1th: Reg Recall=36.36%  Mean RE=4.76  Mean TE=1.38  Mean Precision=39.92%  Mean Recall=72.73%  Mean F1=45.02%
+Scene 2th: Reg Recall=75.00%  Mean RE=7.85  Mean TE=0.46  Mean Precision=83.99%  Mean Recall=100.00%  Mean F1=90.44%
+All 3 scenes, Mean Reg Recall=37.12%, Mean Re=nan, Mean Te=nan
+	Input:  Mean Inlier Num=2715.22(ratio=73.97%)
+	Output: Mean Inlier Num=2715.22(precision=73.97%, recall=90.91%, f1=78.15%)
+	Mean model time: 13.86s, Mean data time: 0.25s
+****************************************
+All 16 pairs, Mean Reg Recall=43.75%, Mean Re=6.09, Mean Te=0.98
+	Input:  Mean Inlier Num=1893.94(ratio=54.57%)
+	Output: Mean Inlier Num=1893.94(precision=54.57%, recall=81.25%, f1=59.75%)
+	Mean model time: 16.45s, Mean data time: 0.18s
+
+
+
+
+
+
+Max memory allicated: 0.00GB
+Scene 0th: Reg Recall=0.00%  Mean RE=nan  Mean TE=nan  Mean Precision=98.01%  Mean Recall=100.00%  Mean F1=99.00%
+All 1 scenes, Mean Reg Recall=0.00%, Mean Re=nan, Mean Te=nan
+	Input:  Mean Inlier Num=2512.00(ratio=98.01%)
+	Output: Mean Inlier Num=2512.00(precision=98.01%, recall=100.00%, f1=99.00%)
+	Mean model time: 20.33s, Mean data time: 1.60s
+****************************************
+All 1 pairs, Mean Reg Recall=0.00%, Mean Re=nan, Mean Te=nan
+	Input:  Mean Inlier Num=2512.00(ratio=98.01%)
+	Output: Mean Inlier Num=2512.00(precision=98.01%, recall=100.00%, f1=99.00%)
+	Mean model time: 20.33s, Mean data time: 1.60s
+
+
+Max memory allicated: 0.00GB
+Scene 0th: Reg Recall=100.00%  Mean RE=20.74  Mean TE=1.94  Mean Precision=98.01%  Mean Recall=100.00%  Mean F1=99.00%
+All 1 scenes, Mean Reg Recall=100.00%, Mean Re=20.74, Mean Te=1.94
+	Input:  Mean Inlier Num=2512.00(ratio=98.01%)
+	Output: Mean Inlier Num=2512.00(precision=98.01%, recall=100.00%, f1=99.00%)
+	Mean model time: 5.55s, Mean data time: 0.19s
+****************************************
+All 1 pairs, Mean Reg Recall=100.00%, Mean Re=20.74, Mean Te=1.94
+	Input:  Mean Inlier Num=2512.00(ratio=98.01%)
+	Output: Mean Inlier Num=2512.00(precision=98.01%, recall=100.00%, f1=99.00%)
+	Mean model time: 5.55s, Mean data time: 0.19s
